@@ -1,0 +1,20 @@
+{
+  "name": "onboarding-repo",
+  "version": "1.0.0",
+  "description": "Вітаємо! 👋   Цей репозиторій допоможе тобі швидко зануритись у процеси, стек і стилістику команди.",
+  "main": "next.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vs-developers/onboarding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vs-developers/onboarding/issues"
+  },
+  "homepage": "https://github.com/vs-developers/onboarding#readme"
+}

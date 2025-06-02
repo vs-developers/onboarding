@@ -1,0 +1,18 @@
+{
+    "sourceFile": "package.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1748857659414,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1748857659414,
+            "name": "Commit-0",
+            "content": "{\n  \"name\": \"onboarding-repo\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Вітаємо! 👋   Цей репозиторій допоможе тобі швидко зануритись у процеси, стек і стилістику команди.\",\n  \"main\": \"next.config.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/vs-developers/onboarding.git\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"bugs\": {\n    \"url\": \"https://github.com/vs-developers/onboarding/issues\"\n  },\n  \"homepage\": \"https://github.com/vs-developers/onboarding#readme\"\n}\n"
+        }
+    ]
+}

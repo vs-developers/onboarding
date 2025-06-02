@@ -1,0 +1,22 @@
+{
+    "sourceFile": "getting-started/setup.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1748857068411,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1748857080301,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,6 +2,6 @@\n \n ## Кроки:\n 1. Клонуй репозиторій:\n ```bash\n-git clone https://github.com/vroda-space/onboarding.git\n+git clone https://github.com/vs-developers/onboarding.git\n cd onboarding\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1748857068411,
+            "name": "Commit-0",
+            "content": "# Налаштування середовища\n\n## Кроки:\n1. Клонуй репозиторій:\n```bash\ngit clone https://github.com/vroda-space/onboarding.git\ncd onboarding"
+        }
+    ]
+}
