@@ -4,7 +4,11 @@
   "description": "Вітаємо! 👋   Цей репозиторій допоможе тобі швидко зануритись у процеси, стек і стилістику команди.",
   "main": "next.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "repository": {
     "type": "git",
@@ -16,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/vs-developers/onboarding/issues"
   },
-  "homepage": "https://github.com/vs-developers/onboarding#readme"
+  "homepage": "https://github.com/vs-developers/onboarding#readme",
+  "dependencies": {
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.29",
+    "@types/react": "19.1.6",
+    "typescript": "5.8.3"
+  }
 }
